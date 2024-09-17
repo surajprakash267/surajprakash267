@@ -7,7 +7,7 @@ Hi there 👋 It's me Suraj Prakash
 
 
 
-👨‍💻 All of my Projects are available at https://github.com/surajprakash267/surajprakash267/Projects/
+👨‍💻 All of my Projects are available at (https://github.com/surajprakash267?tab=repositories)
 
 
 
