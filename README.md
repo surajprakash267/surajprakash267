@@ -1,6 +1,6 @@
-Hi there 👋 It's me Suraj Prakash
+                                          Hi there 👋 It's me Suraj Prakash
 
-  👨‍💻  A QA Engineer from India
+                                             👨‍💻  A QA Engineer from India
 
 ✨ Learning and enjoying my life  ![coworking-male-programmer-writing-program-code](https://github.com/user-attachments/assets/1d7ca2d6-a483-41dc-b1b5-fa08db768ab1)
 
